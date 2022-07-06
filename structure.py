@@ -4,14 +4,6 @@ Created on Tue Aug 20 15:20:37 2019
 
 @author: oswar-pc
 
-Es un proyecto funcional pero no cumple con todo
-
-1-no guarda en memoria en un archivo txt por lo tanto al reiniciar el proyecto pierde sus archivos y carpeta creados
-
-2-no ordena con preferencia a las carpetas sobre los archivos
-
-es un proyecto 100% funcional trabaja con TDA con un arbol de n nodos como su nucleo
-
 """
 import time
 
